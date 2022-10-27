@@ -1,0 +1,16 @@
+{
+  "name": "automate",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.27.1",
+    "electron": "^21.2.0"
+  },
+  "dependencies": {
+    "playwright": "^1.27.1"
+  }
+}
